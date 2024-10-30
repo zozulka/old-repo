@@ -1,0 +1,3 @@
+files:
+  - source: Example.json
+    translation: /translation/%two_letters_code%/Example.json
